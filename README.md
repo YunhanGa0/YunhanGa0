@@ -12,9 +12,6 @@ Welcome to my digital playground! I'm a **Software Engineering** junior with a p
 - 🛠️ **Full-Stack Developer**  
   Proficient in **Spring Boot**, **Vue 2**, **MySQL**, and a touch of **Docker** magic 🐳. I enjoy designing seamless user experiences backed by robust server logic.  
 
-- 🎲 **Game Enthusiast**  
-  Designing a Mahjong game 🀄 with clean architecture, leveraging design patterns like Factory, Strategy, and State to ensure smooth gameplay.
-
 ---
 
 ## 🛠️ My Tech Toolbox
@@ -22,29 +19,13 @@ Welcome to my digital playground! I'm a **Software Engineering** junior with a p
 ### Languages & Frameworks:
 - **Backend:** Java (Spring Boot), Python, Kotlin (Android Development)
 - **Frontend:** Vue 2, HTML, CSS, JavaScript  
-- **Database:** MySQL, MongoDB  
+- **Database:** MySQL, SQLite
 
 ### Tools & Platforms:
 - Docker 🐳  
 - RabbitMQ 📬  
 - Apache POI 📊 (For Excel magic!)  
 - OpenGL 🌌 (3D graphics)  
-
----
-
-## 🚀 Projects I'm Proud Of
-
-### 🎵 **Concert Management System**
-A dynamic platform for managing concerts, including role-based permissions and scheduling. **Design Patterns** played a key role in this project!  
-
-### ☕ **Pour-Over Coffee Timer**
-An Android app with six pre-set coffee recipes, personalized brewing recommendations, and caffeine tracking. Features a **PieChart** for usage statistics.
-
-### 🀄 **Mahjong Game**
-A strategic Mahjong game designed with clear architecture and rich use of design patterns like Factory, Strategy, and Command.
-
-### 🏫 **School Management System**
-A comprehensive system for managing student, teacher, and admin accounts, integrated with **electric scooter management** for students.
 
 ---
 
