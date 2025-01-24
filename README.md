@@ -12,9 +12,6 @@ Welcome to my digital playground! I'm a **Software Engineering** junior with a p
 - 🛠️ **Full-Stack Developer**  
   Proficient in **Spring Boot**, **Vue 2**, **MySQL**, and a touch of **Docker** magic 🐳. I enjoy designing seamless user experiences backed by robust server logic.  
 
-- 🎨 **Creative Technologist**  
-  Currently exploring **OpenGL** for 3D animations, where I'm building a mechanical world filled with gears, pistons, and endless motion.  
-
 - 🎲 **Game Enthusiast**  
   Designing a Mahjong game 🀄 with clean architecture, leveraging design patterns like Factory, Strategy, and State to ensure smooth gameplay.
 
@@ -52,37 +49,23 @@ A comprehensive system for managing student, teacher, and admin accounts, integr
 ---
 
 ## 📈 Fun Stats
-
-- 🌟 Over [insert number] repositories on GitHub.  
-- 🔥 Constantly learning and growing: from Android development to web systems and beyond.  
-- 🚴 Side hobby: Automating tasks to free up time for bike rides and coffee breaks.  
-
----
-
-## 🌱 What's Next?
-
-- 📱 **Advanced Android Development**: Expanding my diary app with AI-powered features and richer UI/UX.
-- 🌐 **Open Source Contribution**: Collaborating on impactful projects.  
-- 🤖 **Machine Learning**: Exploring AI tools to make apps smarter and more intuitive.  
+ ![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/overview.svg#gh-light-mode-only)  ![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/languages.svg#gh-light-mode-only) 
 
 ---
 
 ## 🎯 Let's Connect!
 
-- 💌 Email: [Your Email]  
-- 🌐 Portfolio: [Your Website or Portfolio Link]  
-- 🔗 LinkedIn: [Your LinkedIn Profile]  
+- 💌 Email: [gaoyunhan0@gmail.com]  
+- 🌐 Portfolio: [www.withyunhan.com]   
 
 🌟 *“Code is like humor. When you have to explain it, it’s bad.”*  
-Thanks for stopping by — happy coding!  
+**Thanks for stopping by — happy coding!**
 
 
 <!---
 YunhanGa0/YunhanGa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/YunhanGa0/github-stats/master/generated/languages.svg#gh-light-mode-only)
