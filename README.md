@@ -3,16 +3,6 @@
 Welcome to my digital playground! I'm a **Software Engineering** junior with a passion for crafting elegant code and building full-stack solutions. From scalable backend architectures to intuitive frontend designs, I love creating projects that make a difference.
 
 ---
-
-## 🌟 About Me
-
-- 🎓 **Third-Year Software Engineering Student**  
-  Studying how to turn coffee ☕ into code 💻 while diving deep into software engineering principles.  
-
-- 🛠️ **Full-Stack Developer**  
-  Proficient in **Spring Boot**, **Vue 2**, **MySQL**, and a touch of **Docker** magic 🐳. I enjoy designing seamless user experiences backed by robust server logic.  
-
----
 ## 🛠️ My Tech Toolbox
 
 ### Languages & Frameworks:
