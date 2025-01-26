@@ -1,4 +1,8 @@
+<div align="center">
+
 # 👨‍💻 Hi, I'm YunhanGa0! 👋
+
+</div>
 
 Welcome to my digital playground! I'm a **Software Engineering** junior with a passion for crafting elegant code and building full-stack solutions. From scalable backend architectures to intuitive frontend designs, I love creating projects that make a difference.
 
@@ -30,13 +34,13 @@ Welcome to my digital playground! I'm a **Software Engineering** junior with a p
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache POI](https://img.shields.io/badge/Apache%20POI-5A9FDF?style=for-the-badge&logo=apache&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ---
